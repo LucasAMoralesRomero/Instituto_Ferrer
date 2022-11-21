@@ -1,0 +1,18 @@
+p {
+    box-shadow: 5px 5px 20px rgb(150,150,150);
+    margin: 4em;
+    padding:1em;
+  }
+  
+  div{
+    margin: 4em;
+    padding: 1em;
+  }
+  
+  h1{
+    margin: 4em;
+  }
+  
+  body{
+    font-family: verdana;
+  }
