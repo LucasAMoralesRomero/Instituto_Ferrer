@@ -1,10 +1,22 @@
 body {
     background-image: url("https://img.freepik.com/premium-vector/horizontal-space-background-with-realistic-nebula_189033-743.jpg");
-    background-size: 100%, 100%;
-    background-repeat:no-repeat;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
     
 }
+
+h1{
+    color: whitesmoke;
+    text-align: center;
+}
+
 div{
     color: whitesmoke;
    
+}
+
+img {
+    width: 309px;
+    height: 164px;
 }
